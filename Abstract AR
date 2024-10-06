@@ -1,0 +1,9 @@
+The interesting topic of augmented reality (AR) has been actively observed by educational technology in recent times. The goal of this project is to use AR technology to develop a better teaching tool that makes letter identification and comprehension easier for everyone. The objective is to create an interactive augmented reality application that uses audio and 3D objects to give students a holistic learning experience while also assisting them in finding and understanding alphabetic characters.
+
+The precise real-time alphabetic character detection that Vuforia's reliable tracking and identification technology offers is a crucial component of the project. When the model shows up on the phone's screen, Vuforia recognizes the target photo when the user selects a specific letter to scan.
+ 
+1. Image Recognition:. The target image for each alphabet is painstakingly made and obtained from the popular Sketchfab 3D model collection. These photos are converted to the FBX format in order to guarantee Unity compatibility. The augmented reality components were integrated using the Five Star development platform, with a 1MB image size limit. Vuforia's ensures that the 3D models are presented and positioned accurately, providing a seamless and engaging user experience.
+
+ 2. 3D Model Connection: Unity is used to integrate the 3D models for each alphabet.  Apple is represented by the letter A, Ball by the letter B, and so on up to Z for Zoo. These aesthetically pleasing and educational models help kindergarteners discover the connections between letters and objects. FBX models are used to create lifelike and detailed 3D representations.
+ 
+3. Including Audio: An audio clip that pronounces each letter in each alphabet is included, which gives the application even more educational value. Apart from the visual cues provided by the 3D models, this auditory feedback improves letter recognition via several senses. 
